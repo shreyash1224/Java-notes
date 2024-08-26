@@ -1,0 +1,13 @@
+1. Concept of inner class is not clear.
+2. Default abstract class, private abstract class and interface.
+3. accessing static and non-static members in static and non-static classes and methods.
+4. Use of this in static class and methods.
+5. I have skip 164 chapter.
+6. Can we use the try and catch block to get new correcct values.
+7. Confusion whether we can declare variabale in class, function without initiallizing it.
+8. Multithreading as concept is understood but still confuse with its definition.
+9. Simulatneous working of a thread and main.
+10. What is the difference between the asynchronous programming in javascript and multithreading in java?
+11. Confusion in wait and block state.
+12. Thread void join and join(long millis) confusion in usage of methods and ambguitiy in the concept of join.
+13. Where to write sleep and where to write interrupt?
