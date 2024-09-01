@@ -11,3 +11,5 @@
 11. Confusion in wait and block state.
 12. Thread void join and join(long millis) confusion in usage of methods and ambguitiy in the concept of join.
 13. Where to write sleep and where to write interrupt?
+14. Little confusion in built-in annotations.
+15. Revise Lambda Expression. I think the provided information is too short.
